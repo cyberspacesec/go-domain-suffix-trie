@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	domain_suffix_trie "github.com/golang-infrastructure/go-domain-suffix-trie"
+
+	domain_suffix_trie "github.com/cyberspacesec/go-domain-suffix-trie"
 )
 
 func main() {

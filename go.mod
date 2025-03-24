@@ -1,4 +1,4 @@
-module github.com/golang-infrastructure/go-domain-suffix-trie
+module github.com/cyberspacesec/go-domain-suffix-trie
 
 go 1.18
 

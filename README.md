@@ -55,7 +55,7 @@ a.007.qq.com
 添加此项目作为依赖：
 
 ```text
-go get -u github.com/golang-infrastructure/go-domain-suffix-trie
+go get -u github.com/cyberspacesec/go-domain-suffix-trie
 ```
 
 代码示例（DomainSuffixTree是线程安全的）：
@@ -65,7 +65,7 @@ package main
 
 import (
 	"fmt"
-	domain_suffix_trie "github.com/golang-infrastructure/go-domain-suffix-trie"
+	domain_suffix_trie "github.com/cyberspacesec/go-domain-suffix-trie"
 )
 
 func main() {
